@@ -6,3 +6,4 @@ Create a controller called welcomeController with the following endpoints
 - GET /age : returns “My age is ........” 
 - GET /check/status : returns “Everything OK”
 - GET /health : returns “Server health is up and running”
+- Get /names : return array of names
